@@ -81,7 +81,7 @@ body {
 .form-group .btn-magic {
     width: 100%;
     padding: 16px 32px;
-    background: linear-gradient(90deg, #a655f7 0%, #ff80aa 100%);
+    background: linear-gradient(90deg, #367cfe 0%, #0d054f 50%, #4b61df 100%);
     color: #ffffff;
     border: none;
     border-radius: 8px;
