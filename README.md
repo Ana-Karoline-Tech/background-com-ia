@@ -1,6 +1,5 @@
 ![animacao-background-ia-dark](https://github.com/user-attachments/assets/24e58e36-d44a-4805-9cac-72e82040c12d)
 
-<<<<<<< HEAD
 # Background com IA
 
 Este projeto é uma aplicação web que permite aos usuários gerar backgrounds personalizados com a ajuda de inteligência artificial. O usuário pode descrever o background que deseja em uma caixa de texto, e a aplicação envia essa descrição para um workflow do N8n, que por sua vez, gera o código HTML e CSS correspondente ao background.
